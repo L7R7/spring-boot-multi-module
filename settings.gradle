@@ -1,0 +1,5 @@
+rootProject.name = 'spring-boot-multi-module'
+
+include 'app'
+include 'module-a'
+include 'module-b'
